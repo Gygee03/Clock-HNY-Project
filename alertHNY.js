@@ -20,9 +20,10 @@ updateImage = () => {
     s === 0
   ) {
     imgElement.src =
-      "images/wired-outline-2982-sign-happy-new-year-loop-cycle.gif";
+      "./images/wired-outline-2982-sign-happy-new-year-loop-cycle.gif";
   } else {
-    imgElement.src = "images/wired-outline-212-arrow-1-rounded-loop-cycle.gif";
+    imgElement.src = "./images/wired-outline-212-arrow-1-rounded-loop-cycle.gif";
   }
 };
 setInterval(updateImage, 1000);
+
