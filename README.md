@@ -1,4 +1,4 @@
-##### Clock-HNY-Project
+# Clock-HNY-Project
 ## 🛠 Tech Stack
 - HTML
 - JavaScript
